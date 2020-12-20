@@ -26,9 +26,20 @@ Summary:
 
 Considering temperatures at its lowest in December is still considered fairly good weather for surfing and ice-cream, so based on temperature alone it can be seen as a sustainable business. 
 
-But two additional queries looking at precipitation data over the years comparing June and December, would be a stronger analysis as this was the main concern of the investor. 
+But two additional queries looking at precipitation data for the last year comparing June and December, would be a stronger analysis as this was the main concern of the investor. 
+
+The following is for just one year of data for the months of June and Dec (for 2016 as there is no 2017 dec data), and the precipitation amounts were summed up from all stations for an overall precipitation of hawaii:
+
+### Figure 3 - June Precipitation
+<img src="Resources/june_fig1.png"></img>
+<img src="Resources/june_fig2.png"></img>
 
 
 
-[Figure 1](#Figure-1---June-Temperatures)
-[Figure 2](#Figure-2---December-Temperatures)
+### Figure 4 - December Precipitation
+<img src="Resources/dec_fig1.png"></img>
+<img src="Resources/dec_fig2.png"></img>
+
+Overall there is more precipitation in December.
+Not stated in the dataset but assumed that the precipitation units is in millimeters, on average December has more precipitation compared to June with 1.1mm to 0.68mm respectively. June also has more days without precipitation, but if comparing days with less than 0.5mm, both June and December have nearly the same amount of days.
+
